@@ -1,0 +1,22 @@
+[
+  {
+    "InstanceId": "i-00b5d5b1e52949093",
+    "InstanceType": "t2.micro",
+    "State": "stopped",
+    "PrivateIpAddress": "10.0.10.222",
+    "PublicIpAddress": "N/A",
+    "LaunchTime": "2024-12-02 13:32:23+00:00",
+    "AMI": "ami-0bb84b8ffd87024d8",
+    "VpcId": "vpc-0fe62257f65181baf"
+  },
+  {
+    "InstanceId": "i-02b0fd9f0025ac677",
+    "InstanceType": "t2.micro",
+    "State": "stopped",
+    "PrivateIpAddress": "10.0.20.122",
+    "PublicIpAddress": "N/A",
+    "LaunchTime": "2024-12-02 13:29:00+00:00",
+    "AMI": "ami-06b21ccaeff8cd686",
+    "VpcId": "vpc-0fe62257f65181baf"
+  }
+]
